@@ -1,6 +1,6 @@
 <p align="left"> <img src="./Banner.png" alt="yonandualem" /> </p>
 <h1 align="center">Hey 👋, I'm Yonas</h1>
-<h3 align="center">Software Engineer and UI/UX Designer</h3>
+<h3 align="center">Software Engineer | UI/UX Designer</h3>
 
 ###
 
