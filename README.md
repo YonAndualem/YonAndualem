@@ -8,6 +8,14 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yonandualem.yonandualem&left_text=Profile%20Visitors"  />
+  <br>
+  <a href="https://github.com/YonAndualem?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YonAndualem?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
+<a href="https://github.com/YonAndualem?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YonAndualem?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+
 </div>
 
 ###
@@ -142,8 +150,12 @@
 ###
 
 <div align="center">
+  <a href="https://yonandualem.pythonanywhere.com/link">
+  <img src="https://yonandualem.pythonanywhere.com?spin=false&scan=true&eq_color=rainbow&theme=dark" alt="Current Spotify Song" />
+</a>
+<br>
   <a href="https://open.spotify.com/user/31zxbtnj6tnlf7wzf6wxw4pjvf4a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zxbtnj6tnlf7wzf6wxw4pjvf4a&count=3&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zxbtnj6tnlf7wzf6wxw4pjvf4a&unique=true&count=3" alt="Spotify recently played"  />
   </a>
 </div>
 
